@@ -1,0 +1,11 @@
+2024-10-23 05:07:00 [INFO] Directory '/app/project/Result' created successfully!
+2024-10-23 05:07:00 [INFO] CSV file '/app/project/Result/server_data.csv' created with headers.
+2024-10-23 05:07:00 [INFO] Appended new data to '/app/project/Result/server_data.csv'.
+2024-10-23 05:07:00 [INFO] Collected and logged data: {'Date': '2024-10-23', 'Time': '05:07:00', 'Host-name': '5a99c07370e9', 'IP address': '172.17.0.2', 'CPU usage (%)': 0.0, 'RAM usage (%)': 11.0, 'Disk usage (%)': 0.8, 'Network usage (bytes)': 0, 'Energy consumption (KWH)': 0.0265, 'CO2 emission (kt)': 0.0}
+2024-10-23 05:07:22 [INFO] Directory '/app/project/Result' already exists.
+2024-10-23 05:07:22 [INFO] Appended new data to '/app/project/Result/server_data.csv'.
+2024-10-23 05:07:22 [INFO] Collected and logged data: {'Date': '2024-10-23', 'Time': '05:07:22', 'Host-name': '5a99c07370e9', 'IP address': '172.17.0.2', 'CPU usage (%)': 0.3, 'RAM usage (%)': 11.1, 'Disk usage (%)': 0.8, 'Network usage (bytes)': 0, 'Energy consumption (KWH)': 0.0274, 'CO2 emission (kt)': 0.0}
+2024-10-23 05:07:43 [INFO] Directory '/app/project/Result' already exists.
+2024-10-23 05:07:43 [INFO] Appended new data to '/app/project/Result/server_data.csv'.
+2024-10-23 05:07:43 [INFO] Collected and logged data: {'Date': '2024-10-23', 'Time': '05:07:43', 'Host-name': '5a99c07370e9', 'IP address': '172.17.0.2', 'CPU usage (%)': 0.0, 'RAM usage (%)': 11.1, 'Disk usage (%)': 0.8, 'Network usage (bytes)': 0, 'Energy consumption (KWH)': 0.0267, 'CO2 emission (kt)': 0.0}
+2024-10-23 05:08:03 [INFO] Data collection completed successfully.
